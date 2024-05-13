@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from math import e as E
 
-df = pd.read_csv("diabetes 1.csv")
+df = pd.read_csv("diabetes1.csv")
 
 # print(df)
 

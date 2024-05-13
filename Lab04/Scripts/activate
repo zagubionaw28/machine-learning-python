@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\weron\OneDrive\Pulpit\studia\Studia II rok\II semestr - Polska\inteligencja obliczeniowa\Lab04"
+VIRTUAL_ENV="C:\Users\weron\OneDrive\Pulpit\studia\Studia II rok\II semestr - Polska\inteligencja obliczeniowa\machine-learning-python\Lab04"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
